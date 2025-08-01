@@ -153,7 +153,7 @@
 </script>
 </head>
 <body>
-   <h2>사용자 목록</h2>
+   <h2>사용자 목록 보기</h2>
    
    <!--  수정 -->
    <form  action="updateuser.jsp"  method="GET">
